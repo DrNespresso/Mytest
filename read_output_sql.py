@@ -45,5 +45,6 @@ plt.xlabel('Iteration')
 plt.grid()
 
 # test modifica
-# nuovo test
+# nuovo test -- remoto
+
 
