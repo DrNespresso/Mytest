@@ -43,3 +43,5 @@ plt.scatter(len(LCOE_vec),LCOE_vec[-1], color='r')
 plt.ylabel('LCOE_vec ($/kWh)')
 plt.xlabel('Iteration')
 plt.grid()
+
+# test modifica
